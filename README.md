@@ -2,7 +2,6 @@
 
 **Course:** PAP521S, Programming in Practice
 **Project:** Project A, Foundation System
-**Group Number:** <your group number>
 **Institution:** Namibia University of Science and Technology (NUST)
 
 ## Group Members
