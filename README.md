@@ -74,9 +74,9 @@ Then choose an option from the main menu by entering its number.
 
 | Member | Responsibility |
 |---|---|
-| Hitjevi Ngeama | Assest management |
-| Andreas Werner | Budget Management |
-| Ndapewa Kanguloshi | Supplier Management |
+| Hitjevi Ngeama | Supplier Management |
+| Andreas Werner | Budget Management  |
+| Ndapewa Kanguloshi | Assets Management |
 | Innocentia Ikera | Employee Management |
 | Garrison Jr Shilongo | Reports |
 | Rhiolin Khoeaos | Testing, documentation and Git coordination and also the functions,integration and validation |
